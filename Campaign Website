@@ -1,0 +1,18 @@
+.content {
+    padding: 40px 20px;
+    background-color: #fff;
+}
+
+.manifesto-list {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.8;
+}
+
+.manifesto-list li {
+    margin-bottom: 15px;
+    background-color: #eaf2ff;
+    padding: 15px;
+    border-left: 6px solid #004080;
+    border-radius: 5px;
+}
